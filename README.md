@@ -14,7 +14,9 @@ Create a package with all code of class `Shape`, this exersice should be conduct
 
 ---
 
-### **A unique module inside of package `Shape` (Un único módulo dentro del paquete `Shape`)**
+### **A unique module inside of package `Shape`: reto_5.1**
+
+(Un único módulo dentro del paquete `Shape`)
 
 El proyecto está organizado en un paquete `Shape` que contiene un único módulo llamado `shape.py`. Este módulo centraliza todas las definiciones de las clases relacionadas con la geometría, incluyendo aquellas que representan puntos, líneas y formas geométricas. La estructura del proyecto es la siguiente:
 
@@ -51,7 +53,7 @@ reto_5.1/
    - Importa el paquete `Shape` y utiliza las clases definidas en `shape.py` para instanciar y manipular objetos geométricos.
    - Permite probar la interacción entre clases, como crear formas geométricas complejas, calcular propiedades y realizar operaciones.
 
-### **Individual modules that import `Shape` inherit from it**
+### **Individual modules that import `Shape` inherit from it: reto_5.2**
 
 (Los módulos individuales importan `Shape` y heredan de él)
 
